@@ -1,0 +1,101 @@
+OrderID,CustomerCity,Category,UnitPrice,Quantity,Discount,PaymentMethod,NetRevenue
+ORD0001,Pune,Books,4763.43,3,0.2,Net Banking,11432.23
+ORD0002,Pune,Apparel,948.77,3,0.1,Cash on Delivery,2561.69
+ORD0003,Delhi,Home & Kitchen,298.81,2,0.15,Cash on Delivery,507.97
+ORD0004,Pune,Books,1080.34,4,0.05,Cash on Delivery,4105.3
+ORD0005,Hyderabad,Electronics,1597.9,3,0.05,Cash on Delivery,4554.01
+ORD0006,Bengaluru,Home & Kitchen,2035.82,4,0.0,Credit Card,8143.27
+ORD0007,Hyderabad,Home & Kitchen,3465.48,1,0.05,Credit Card,3292.2
+ORD0008,Delhi,Books,2903.78,2,0.0,Credit Card,5807.57
+ORD0009,Hyderabad,Apparel,3484.32,3,0.15,Credit Card,8885.01
+ORD0010,Hyderabad,Home & Kitchen,4564.74,4,0.05,UPI,17346.0
+ORD0011,Delhi,Apparel,2924.96,1,0.05,Cash on Delivery,2778.71
+ORD0012,Mumbai,Apparel,2096.72,4,0.15,UPI,7128.85
+ORD0013,Delhi,Fitness,2065.65,2,0.2,Credit Card,3305.04
+ORD0014,Pune,Books,3113.76,1,0.0,Net Banking,3113.76
+ORD0015,Mumbai,Fitness,557.84,3,0.0,Cash on Delivery,1673.53
+ORD0016,Bengaluru,Home & Kitchen,1154.44,4,0.1,Credit Card,4156.0
+ORD0017,Mumbai,Home & Kitchen,555.41,3,0.05,Cash on Delivery,1582.93
+ORD0018,Pune,Electronics,3191.83,2,0.0,Net Banking,6383.66
+ORD0019,Mumbai,Books,3260.28,3,0.1,Net Banking,8802.74
+ORD0020,Pune,Fitness,4864.22,3,0.0,UPI,14592.65
+ORD0021,Delhi,Home & Kitchen,2709.12,3,0.05,Cash on Delivery,7720.99
+ORD0022,Hyderabad,Fitness,1168.25,4,0.0,Credit Card,4673.01
+ORD0023,Bengaluru,Books,4556.32,3,0.2,Credit Card,10935.17
+ORD0024,Bengaluru,Books,4725.7,3,0.1,UPI,12759.38
+ORD0025,Pune,Books,4662.55,1,0.0,UPI,4662.55
+ORD0026,Bengaluru,Books,4057.63,4,0.15,Cash on Delivery,13795.93
+ORD0027,Mumbai,Apparel,786.02,1,0.0,Credit Card,786.02
+ORD0028,Mumbai,Home & Kitchen,2250.12,4,0.2,Net Banking,7200.38
+ORD0029,Bengaluru,Home & Kitchen,2203.57,1,0.0,UPI,2203.57
+ORD0030,Hyderabad,Books,1371.8,3,0.0,Credit Card,4115.41
+ORD0031,Bengaluru,Electronics,1418.79,4,0.05,Credit Card,5391.42
+ORD0032,Mumbai,Fitness,1567.23,1,0.1,UPI,1410.51
+ORD0033,Mumbai,Apparel,2172.98,3,0.2,Credit Card,5215.15
+ORD0034,Delhi,Home & Kitchen,3467.39,1,0.15,Cash on Delivery,2947.28
+ORD0035,Mumbai,Books,588.1,4,0.1,Net Banking,2117.15
+ORD0036,Mumbai,Fitness,3235.07,2,0.1,Credit Card,5823.12
+ORD0037,Bengaluru,Books,2639.35,4,0.2,Cash on Delivery,8445.93
+ORD0038,Bengaluru,Books,3452.31,3,0.05,Net Banking,9839.08
+ORD0039,Mumbai,Home & Kitchen,1873.6,3,0.15,Credit Card,4777.67
+ORD0040,Mumbai,Apparel,4221.01,3,0.15,Credit Card,10763.57
+ORD0041,Bengaluru,Apparel,4638.53,2,0.05,Net Banking,8813.21
+ORD0042,Hyderabad,Books,1039.78,4,0.0,Cash on Delivery,4159.13
+ORD0043,Pune,Electronics,1360.89,4,0.15,Credit Card,4627.03
+ORD0044,Bengaluru,Home & Kitchen,1105.79,1,0.1,Cash on Delivery,995.21
+ORD0045,Hyderabad,Home & Kitchen,4310.36,2,0.0,Net Banking,8620.71
+ORD0046,Bengaluru,Electronics,975.82,2,0.15,Cash on Delivery,1658.89
+ORD0047,Delhi,Electronics,3384.81,1,0.05,UPI,3215.57
+ORD0048,Mumbai,Home & Kitchen,3329.41,1,0.15,Cash on Delivery,2830.0
+ORD0049,Bengaluru,Electronics,2570.69,4,0.15,Credit Card,8740.35
+ORD0050,Pune,Electronics,2804.19,3,0.1,Net Banking,7571.32
+ORD0051,Hyderabad,Home & Kitchen,2285.09,1,0.0,Net Banking,2285.09
+ORD0052,Hyderabad,Electronics,1137.17,1,0.1,Net Banking,1023.45
+ORD0053,Pune,Electronics,409.3,4,0.15,UPI,1391.61
+ORD0054,Pune,Fitness,4440.77,4,0.0,Cash on Delivery,17763.09
+ORD0055,Hyderabad,Fitness,2255.28,1,0.1,Credit Card,2029.76
+ORD0056,Bengaluru,Books,1613.35,1,0.0,Cash on Delivery,1613.35
+ORD0057,Bengaluru,Apparel,2872.65,3,0.05,Cash on Delivery,8187.04
+ORD0058,Bengaluru,Apparel,3152.03,2,0.05,UPI,5988.87
+ORD0059,Mumbai,Apparel,1748.24,4,0.0,Net Banking,6992.97
+ORD0060,Delhi,Fitness,1623.25,2,0.1,Credit Card,2921.85
+ORD0061,Hyderabad,Fitness,591.65,3,0.0,Credit Card,1774.96
+ORD0062,Bengaluru,Books,3319.83,4,0.15,Net Banking,11287.41
+ORD0063,Mumbai,Books,2978.55,4,0.1,UPI,10722.79
+ORD0064,Hyderabad,Fitness,4226.88,2,0.0,UPI,8453.76
+ORD0065,Hyderabad,Home & Kitchen,809.89,1,0.2,Cash on Delivery,647.91
+ORD0066,Hyderabad,Books,3189.87,4,0.2,UPI,10207.6
+ORD0067,Delhi,Home & Kitchen,3259.66,4,0.2,Cash on Delivery,10430.92
+ORD0068,Hyderabad,Apparel,1750.19,1,0.1,UPI,1575.17
+ORD0069,Hyderabad,Apparel,321.68,1,0.0,Credit Card,321.68
+ORD0070,Mumbai,Electronics,1031.81,1,0.05,Cash on Delivery,980.22
+ORD0071,Pune,Fitness,1543.68,4,0.2,UPI,4939.78
+ORD0072,Bengaluru,Fitness,2214.08,4,0.05,Credit Card,8413.51
+ORD0073,Mumbai,Electronics,1841.02,4,0.2,UPI,5891.27
+ORD0074,Delhi,Books,1041.59,4,0.05,Cash on Delivery,3958.02
+ORD0075,Delhi,Fitness,2472.66,1,0.2,UPI,1978.13
+ORD0076,Delhi,Fitness,4456.07,4,0.05,Net Banking,16933.05
+ORD0077,Pune,Apparel,2604.99,4,0.2,Cash on Delivery,8335.97
+ORD0078,Hyderabad,Apparel,327.25,4,0.1,Cash on Delivery,1178.12
+ORD0079,Mumbai,Books,2063.22,4,0.0,Credit Card,8252.86
+ORD0080,Mumbai,Home & Kitchen,4139.07,4,0.1,Credit Card,14900.65
+ORD0081,Hyderabad,Apparel,1192.08,1,0.2,Net Banking,953.67
+ORD0082,Mumbai,Apparel,387.02,2,0.1,UPI,696.64
+ORD0083,Bengaluru,Fitness,4255.4,2,0.05,Credit Card,8085.26
+ORD0084,Bengaluru,Books,3525.87,2,0.2,Credit Card,5641.4
+ORD0085,Hyderabad,Books,2206.14,1,0.0,UPI,2206.14
+ORD0086,Mumbai,Fitness,3802.95,4,0.1,Net Banking,13690.62
+ORD0087,Hyderabad,Books,1985.69,3,0.2,Credit Card,4765.65
+ORD0088,Mumbai,Fitness,3751.56,3,0.0,Credit Card,11254.69
+ORD0089,Bengaluru,Books,4167.0,2,0.2,Net Banking,6667.19
+ORD0090,Bengaluru,Electronics,456.73,1,0.0,Cash on Delivery,456.73
+ORD0091,Bengaluru,Electronics,1732.71,2,0.15,UPI,2945.6
+ORD0092,Hyderabad,Fitness,640.18,4,0.0,Net Banking,2560.72
+ORD0093,Pune,Fitness,3811.4,3,0.0,Credit Card,11434.19
+ORD0094,Pune,Apparel,4876.39,2,0.05,Net Banking,9265.14
+ORD0095,Mumbai,Fitness,1884.39,2,0.15,UPI,3203.47
+ORD0096,Delhi,Apparel,3167.45,1,0.2,Credit Card,2533.96
+ORD0097,Pune,Apparel,4481.11,2,0.2,Credit Card,7169.77
+ORD0098,Hyderabad,Home & Kitchen,2990.27,1,0.0,Credit Card,2990.27
+ORD0099,Bengaluru,Electronics,3041.07,4,0.15,Credit Card,10339.62
+ORD0100,Delhi,Books,2880.34,3,0.05,Net Banking,8208.97
